@@ -1,0 +1,340 @@
+@media only screen and (max-width: 1280px) {
+  .hero-heading {
+    font-size: 40px;
+  }
+  .hosting-info-text1 {
+    position: relative;
+    left: 0px;
+  }
+
+  .hero-img1 {
+    position: relative;
+    left: 10px;
+    height: 500px;
+    width: 450px;
+  }
+  .hero-img2 {
+    position: relative;
+    height: 500px;
+  }
+  .hero-img3 {
+    position: relative;
+    height: 450px;
+  }
+  .hosting-info-text3 {
+    position: relative;
+    left: 30px;
+  }
+  .service-main-heading {
+    left: -30px;
+    font-size: 40px;
+  }
+  .service-main-para {
+    left: 30px;
+  }
+  .service-img {
+    height: 58px;
+  }
+  .card-section-heading {
+    font-size: 40px;
+  }
+  .card {
+    height: 800px;
+    width: 340px;
+  }
+  .card-head-heading {
+    left: 20px;
+    font-size: 28px;
+  }
+  .card-head-para {
+    left: 20px;
+    font-size: 18px;
+  }
+  .card-item {
+    left: 20px;
+  }
+  .price {
+    font-size: 30px;
+  }
+  .feedback {
+    font-size: 16px;
+    padding: 20px 20px;
+  }
+  .user-card1,
+  .user-card3 {
+    position: relative;
+    right: 20px;
+  }
+  .user-card2,
+  .user-card4 {
+    position: relative;
+    left: 20px;
+  }
+  .user-card-section2 {
+    margin-top: 30px;
+    display: flex;
+  }
+  .user {
+    bottom: 0px;
+  }
+  .circle {
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+  }
+  .name {
+    font-size: 16px;
+  }
+  .post {
+    font-size: 16px;
+  }
+  .register-heading {
+    left: -100px;
+    font-size: 40px;
+  }
+  .register-para {
+    left: -100px;
+  }
+  .register-btn {
+    right: -100px;
+  }
+  .rectangle2 {
+    top: -370px;
+    left: 640px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .item {
+    margin: 0px 20px;
+  }
+  .hero-img1 {
+    position: relative;
+    left: 0px;
+    height: 500px;
+    width: 450px;
+  }
+  .hosting-info-text1 {
+    position: relative;
+    left: 30px;
+  }
+  .hero-para {
+    position: relative;
+    z-index: 2;
+    font-size: 18px;
+  }
+  .service-main-heading {
+    left: -30px;
+    font-size: 35px;
+  }
+  .service-main-para {
+    left: 30px;
+    font-size: 16px;
+  }
+
+  .service-img {
+    height: 58px;
+  }
+  .service-boxs2 {
+    margin-top: 100px;
+  }
+  .service-boxs3 {
+    margin-top: 100px;
+  }
+  .service-box2,
+  .service-box5 {
+    padding: 0px 20px;
+  }
+  .card {
+    height: 800px;
+    width: 300px;
+  }
+  .card-head-heading {
+    left: 5px;
+    font-size: 28px;
+  }
+  .card-head-para {
+    left: 5px;
+    font-size: 18px;
+  }
+  .card-item {
+    left: 5px;
+  }
+  .price {
+    font-size: 30px;
+  }
+  .feedback {
+    font-size: 14px;
+    padding: 20px 20px;
+  }
+  .user-card1,
+  .user-card3 {
+    right: 10px;
+  }
+  .user-card2,
+  .user-card4 {
+    left: 10px;
+  }
+  .user-card-section2 {
+    margin-top: 20px;
+  }
+  .user {
+    bottom: 0px;
+  }
+  .circle {
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+  }
+  .name {
+    font-size: 16px;
+  }
+  .post {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 780px) {
+  .item {
+    display: none;
+  }
+  .bar {
+    position: relative;
+    bottom: 20px;
+    display: block;
+    height: 40px;
+  }
+  .hosting-info {
+    flex-direction: column-reverse;
+  }
+  .service-boxs1 {
+    flex-direction: column;
+  }
+  .card-head-heading {
+    left: 5px;
+    font-size: 28px;
+  }
+  .card-head-para {
+    left: 5px;
+    font-size: 18px;
+  }
+  .service-boxs {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .service-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cards-section {
+    height: 1800px;
+  }
+  .cards {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .card2 {
+    margin: 0px 00px;
+  }
+  .card3 {
+    margin-top: 20px;
+  }
+  .customer-card-section-para {
+    text-align: center;
+  }
+  .user-card-section1,
+  .user-card-section2 {
+    flex-direction: column;
+  }
+  .user-card1,
+  .user-card3 {
+    top: -10px;
+    right: 0px;
+  }
+  .user-card2,
+  .user-card4 {
+    left: 0px;
+  }
+  .register {
+    flex-direction: column;
+  }
+  .register-heading {
+    text-align: center;
+    left: 0px;
+    font-size: 40px;
+  }
+  .register-para {
+    text-align: center;
+    left: 0px;
+  }
+  .register-btn {
+    top: 40px;
+    right: 0px;
+  }
+  .rectangle2 {
+    top: -370px;
+    left: 640px;
+  }
+  footer {
+    position: relative;
+    flex-wrap: wrap;
+  }
+  .first-items {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 0px;
+  }
+  .fourth-items {
+    bottom: 0px;
+  }
+  .fifth-items {
+    bottom: 0px;
+  }
+}
+@media only screen and (max-width: 424px) {
+  .hero-heading {
+    font-size: 30px;
+  }
+  .hosting-info-text1,
+  .hosting-info-text3,
+  .hosting-info-text2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    left: 0px;
+  }
+  .hero-para {
+    font-size: 16px;
+    align-items: center;
+  }
+  .hero-img1 {
+    height: 260px;
+    width: 300px;
+  }
+  .hero-img2 {
+    height: 260px;
+    width: 300px;
+  }
+  .hero-img3 {
+    height: 260px;
+    width: 300px;
+  }
+  .service-main-heading {
+    text-align: center;
+    left: 0px;
+    font-size: 30px;
+  }
+  .service-main-para {
+    text-align: center;
+    top: 20px;
+    left: 0px;
+    font-size: 16px;
+  }
+  .service-box2,
+  .service-box5 {
+    padding: 0px 0px;
+  }
+}
