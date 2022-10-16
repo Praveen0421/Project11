@@ -4,7 +4,6 @@
   padding: 0px;
   box-sizing: border-box;
   font-family: Open Sans;
-  /* border: 1px solid; */
 }
 .navbar {
   display: flex;
@@ -178,7 +177,7 @@
 .cards-section {
   margin-top: 200px;
   height: 1100px;
-  width: 100vw;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
