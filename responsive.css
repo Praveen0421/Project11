@@ -337,4 +337,10 @@
   .service-box5 {
     padding: 0px 0px;
   }
+  .cards-section {
+    height: 2800px;
+  }
+  .card2 {
+    margin-top: 20px;
+  }
 }
